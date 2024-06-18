@@ -1,11 +1,11 @@
-remote_theme: amitmerchant1990/reverie
+remote_theme: brianmaierjr/long-haul
 
 
 # Name of your site (displayed in the header)
-name: Reverie Test Site
+title: Long Haul Test Site
 
 # Name of the author
 author: Elsa Culler
 
 # Short bio or description (displayed in the header)
-description: Testing the Reverie theme by Amit Merchant
+description: Testing the Long Haul theme by Brian Maier Jr.
